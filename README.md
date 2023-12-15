@@ -31,9 +31,9 @@ By requesting for the link, you acknowledge that you have read the agreement, un
 
 ### Data Explanation
 
-THuman-Ins-Sit Dataset comprises 4700 high-fidelity human interacting with chairs scans, involving 72 subjects (12 females and 60 males). Each subject seated on 2 of 11 chair types and perform 60 poses. For each scan, we provide the 3D model (****.obj) , the corresponding texture map (material_0.png) and  the SMPL-X fitting parameters (param.pth) and corresponding meshes (SMPL-X.obj). 
+**THuman-Ins-Sit** Dataset comprises 4700 high-fidelity human interacting with chairs scans, involving 72 subjects (12 females and 60 males). Each subject seated on 2 of 11 chair types and perform 60 poses. For each scan, we provide the 3D model (****.obj) , the corresponding texture map (material_0.png) and  the SMPL-X fitting parameters (param.pth) and corresponding meshes (SMPL-X.obj). 
 
-THuman-Ins-Grasp Dataset contains 500 high-fidelity hand interacting with object scans, involving 50 object types (rigid and soft). Each object involved in 10 distinct interactions, and 20 volunteers participating in the data acquisition. For each scan, we provide the 3D model (****.obj), the corresponding texture map (material_0.png) , the MANO fitting parameters (mano_param.pth)  and the NIMBLE fitting parameters (nimble_param.pth)
+**THuman-Ins-Grasp** Dataset contains 500 high-fidelity hand interacting with object scans, involving 50 object types (rigid and soft). Each object involved in 10 distinct interactions, and 20 volunteers participating in the data acquisition. For each scan, we provide the 3D model (****.obj), the corresponding texture map (material_0.png) , the MANO fitting parameters (mano_param.pth)  and the NIMBLE fitting parameters (nimble_param.pth)
 
 We also provide individual chair meshes and object meshes in Dataset.
 
