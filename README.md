@@ -1,7 +1,7 @@
 # Ins-HOI: Instance Aware Human-Object Interactions Recovery
 Jiajun Zhang, Yuxiang Zhang, Hongwen Zhang, Boyao Zhou, Ruizhi Shao, Zonghai Hu, Yebin Liu.  Arxiv 2023
 
-[[Project Page]](https://jiajunzhang16.github.io/ins-hoi)
+[[Project Page]](https://jiajunzhang16.github.io/ins-hoi) [[Paper]](https://arxiv.org/abs/2312.09641)
 
 ## Code
 
@@ -41,7 +41,21 @@ We also provide individual chair meshes and object meshes in Dataset.
 
 
 
+## Citation
+
+If you use this dataset for your research, please consider citing:
+
+```
+@article{zhang2023inshoi,
+  title={Ins-HOI: Instance Aware Human-Object Interactions Recovery}, 
+  author={Zhang, Jiajun and Zhang, Yuxiang and Zhang, Hongwen and Zhou, Boyao and Shao, Ruizhi and Hu, Zonghai and Liu, Yebin},
+  journal={arXiv preprint arXiv:2312.09641},
+  year={2023}
+}
+```
+
 ## Contact
 
 - Jiajun Zhang [(jiajun.zhang@bupt.edu.cn)](mailto:jiajun.zhang@bupt.edu.cn)
 - Yebin Liu [(liuyebin@mail.tsinghua.edu.cn)](mailto:liuyebin@mail.tsinghua.edu.cn)
+
