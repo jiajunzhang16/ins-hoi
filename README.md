@@ -48,11 +48,12 @@ We also provide individual chair meshes and object meshes in Dataset.
 If you use this dataset for your research, please consider citing:
 
 ```
-@article{zhang2023inshoi,
-  title={Ins-HOI: Instance Aware Human-Object Interactions Recovery}, 
-  author={Zhang, Jiajun and Zhang, Yuxiang and Zhang, Hongwen and Zhou, Boyao and Shao, Ruizhi and Hu, Zonghai and Liu, Yebin},
-  journal={arXiv preprint arXiv:2312.09641},
-  year={2023}
+@article{zhang2025ins,
+  title={Ins-hoi: Instance aware human-object interactions recovery},
+  author={Zhang, Jiajun and Zhang, Yuxiang and Zhang, Hongwen and Zhou, Xiao and Zhou, Boyao and Shao, Ruizhi and Hu, Zonghai and Liu, Yebin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
