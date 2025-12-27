@@ -1,15 +1,17 @@
 # Ins-HOI: Instance Aware Human-Object Interactions Recovery
-Jiajun Zhang, Yuxiang Zhang, Hongwen Zhang, Boyao Zhou, Ruizhi Shao, Zonghai Hu, Yebin Liu.  Arxiv 2023
+Jiajun Zhang, Yuxiang Zhang, Hongwen Zhang, Boyao Zhou, Ruizhi Shao, Zonghai Hu, Yebin Liu.  TPAMI 2025
 
 [[Project Page]](https://jiajunzhang16.github.io/ins-hoi) [[Paper]](https://arxiv.org/abs/2312.09641)
 
-## Code
-
-Coming soon.
-
-
 
 ## Dataset
+
+### Demo 
+
+<p align="center">
+  <img src="./dataset/assets/thuman_sit.png" width="48%">
+  <img src="./dataset/assets/thuman_grasp.png" width="48%">
+</p>
 
 ### Agreement
 
